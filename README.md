@@ -1,2 +1,2 @@
 # PaymentPaaS
-Wallet for ChainEasy Platform.
+Wallet Integration Service for ChainEasy Platform.
